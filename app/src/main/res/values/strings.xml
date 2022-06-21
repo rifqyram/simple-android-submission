@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Masakan Nusantara</string>
+    <string name="item_price">Rp 10.000</string>
+    <string name="item_title">Nasi Goreng</string>
+    <string name="item_description_image">item_description_image</string>
+    <string name="description">Deskripsi</string>
+    <string name="description_item">Nasi goreng adalah sebuah makanan berupa nasi yang digoreng dan diaduk dalam minyak goreng, margarin, atau mentega</string>
+    <string name="my_name">Muhamad Rifqi Ramadhan</string>
+    <string name="about_action">about_action</string>
+    <string name="splash_image">splash_image</string>
+</resources>
